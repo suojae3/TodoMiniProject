@@ -14,6 +14,7 @@
 
 ### 1. App 시연
 
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="Untitled.png" width="400" height="200"><br/><br/>
 
 
 <br/>
