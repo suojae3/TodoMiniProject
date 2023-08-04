@@ -5,6 +5,8 @@
 
 ## Contents
 
+memo: 기간, trouble shooting, 스택
+
 [1. App 시연](#1-app-시연)<br/>
 [2. 구현 사항](#2-구현-사항)<br/>
 [3. 공부내용 정리](#3-공부내용-정리)<br/>
