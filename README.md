@@ -42,6 +42,7 @@
 - <a href="https://github.com/suojae3/AutoresizingMask.git" target="_blank"><strong> 스토리보드 없이 버튼을 코드로 구현해보자(feat. Autoresizing Mask)
 - <a href="https://github.com/suojae3/Codable-Protocol.git" target="_blank"><strong> Codable 프로토콜이란?
 - <a href="https://github.com/suojae3/UserDefaults.git" target="_blank"><strong> UserDefaults는 어떤 데이터베이스인가요?
+- <a href="https://github.com/suojae3/ToDoMVVM.git" target="_blank"><strong> MVVM 패턴은 어떻게 적용시켰나요?
 
 
 
