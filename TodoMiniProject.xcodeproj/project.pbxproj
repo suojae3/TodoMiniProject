@@ -18,6 +18,7 @@
 		0856C9382A7B981A00BCDD71 /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0856C9372A7B981A00BCDD71 /* Model.swift */; };
 		0856C93A2A7B9CDB00BCDD71 /* CompletedToDoListController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0856C9392A7B9CDB00BCDD71 /* CompletedToDoListController.swift */; };
 		089C5F4F2A7CA06D00070F22 /* ToDoListControllerVM.swift in Sources */ = {isa = PBXBuildFile; fileRef = 089C5F4E2A7CA06D00070F22 /* ToDoListControllerVM.swift */; };
+		089C5F512A7CB95D00070F22 /* CompletedToDoListControllerVM.swift in Sources */ = {isa = PBXBuildFile; fileRef = 089C5F502A7CB95D00070F22 /* CompletedToDoListControllerVM.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +35,7 @@
 		0856C9372A7B981A00BCDD71 /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
 		0856C9392A7B9CDB00BCDD71 /* CompletedToDoListController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CompletedToDoListController.swift; sourceTree = "<group>"; };
 		089C5F4E2A7CA06D00070F22 /* ToDoListControllerVM.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoListControllerVM.swift; sourceTree = "<group>"; };
+		089C5F502A7CB95D00070F22 /* CompletedToDoListControllerVM.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CompletedToDoListControllerVM.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +80,7 @@
 				0856C9332A7B95E600BCDD71 /* ToDoListController.swift */,
 				0856C9392A7B9CDB00BCDD71 /* CompletedToDoListController.swift */,
 				089C5F4E2A7CA06D00070F22 /* ToDoListControllerVM.swift */,
+				089C5F502A7CB95D00070F22 /* CompletedToDoListControllerVM.swift */,
 			);
 			path = TodoMiniProject;
 			sourceTree = "<group>";
@@ -160,6 +163,7 @@
 				0856C9342A7B95E600BCDD71 /* ToDoListController.swift in Sources */,
 				0856C9362A7B975F00BCDD71 /* View.swift in Sources */,
 				0856C9182A7B90A900BCDD71 /* HomeController.swift in Sources */,
+				089C5F512A7CB95D00070F22 /* CompletedToDoListControllerVM.swift in Sources */,
 				0856C9142A7B90A900BCDD71 /* AppDelegate.swift in Sources */,
 				0856C93A2A7B9CDB00BCDD71 /* CompletedToDoListController.swift in Sources */,
 				0856C9382A7B981A00BCDD71 /* Model.swift in Sources */,

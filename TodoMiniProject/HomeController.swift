@@ -4,7 +4,7 @@ class HomeController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-
+        
         // label & button style 객체생성
         let titleLabel = HomeStyle.titleLabel()
         let startButton = HomeStyle.actionButton(target: self, action: #selector(viewToDo))
@@ -12,7 +12,7 @@ class HomeController: UIViewController {
         
         //background 주입
         HomeStyle.background(to: view)
-
+        
         // HomeLayout 주입
         HomeLayout.apply(titleLabel: titleLabel, startButton: startButton, completedToDoButton: completedToDoButton, in: view)
     }

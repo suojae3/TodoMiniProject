@@ -4,8 +4,8 @@ import UIKit
 struct HomeStyle {
     
     static func background(to view: UIView) {
-         view.backgroundColor = .white
-     }
+        view.backgroundColor = .white
+    }
     
     static func titleLabel() -> UILabel {
         let label = UILabel()
@@ -13,7 +13,7 @@ struct HomeStyle {
         label.font = UIFont.systemFont(ofSize: 25, weight: .bold)
         return label
     }
-
+    
     static func actionButton(target: Any?, action: Selector) -> UIButton {
         let button = UIButton(type: .system)
         button.translatesAutoresizingMaskIntoConstraints = false
@@ -32,7 +32,7 @@ struct HomeLayout {
         view.addSubview(titleLabel)
         view.addSubview(startButton)
         view.addSubview(completedToDoButton)
-
+        
         NSLayoutConstraint.activate([
             titleLabel.centerXAnchor.constraint(equalTo: view.centerXAnchor),
             titleLabel.centerYAnchor.constraint(equalTo: view.centerYAnchor),
