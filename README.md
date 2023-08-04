@@ -14,10 +14,11 @@
 
 <br/>
 
-### 1. App 시연
+### 1. App 시연 
 
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="Simulator Screen Recording - iPhone 14 Pro - 2023-08-04 at 14.55.55.gif"><br/><br/>
+<br/>
 
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="Simulator Screen Recording - iPhone 14 Pro - 2023-08-04 at 14.55.55.gif" height="350"><br/><br/>
 
 #
 
