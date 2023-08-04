@@ -24,16 +24,16 @@
 
 ### 2. 제작 기간 
 
-#### 2023.08.02 ~ 08.04 <br/>
+- #### 2023.08.02 ~ 08.04 <br/>
 
 #
 
 ### 3. 구현 사항
 
-#### [**Architecture**] MVVM 패턴 <br/>
-#### [**Database**] UserDeafaults, Codable <br/>
-#### [**Components**] Navigation Control, Table View, Segmet Control <br/>
-#### [**Feature**] 스토리보드 사용 없이 코드로 구현
+- #### [**Architecture**] MVVM 패턴 <br/>
+- #### [**Database**] UserDeafaults, Codable <br/>
+- #### [**Components**] Navigation Control, Table View, Segmet Control <br/>
+- #### [**Feature**] 스토리보드 사용 없이 코드로 구현
 
 <br/>
 
