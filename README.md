@@ -30,7 +30,7 @@
 
 ### 3. 구현 사항
 
-- **[Tech Stack]** <br/> `Swfit`, `UIKit` <br/>
+- **[Tech Stack]** <br/> `Swift`, `UIKit` <br/>
 - **[Architecture]** <br/>MVVM 디자인 패턴 <br/>
 - **[Database]** <br/>`UserDeafaults`, `Codable` <br/>
 - **[Components]** <br/>`Navigation Controller`, `Table View` <br/>
