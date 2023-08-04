@@ -32,7 +32,7 @@
 
 - **[Architecture]** <br/>MVVM 디자인 패턴 <br/>
 - **[Database]** <br/>`UserDeafaults`, `Codable` <br/>
-- **[Components]** <br/>`Navigation Control`, `Table View`, `Segment Control` <br/>
+- **[Components]** <br/>`Navigation Controller`, `Table View` <br/>
 - **[Feature]** <br/>스토리보드 사용 없이 코드로 구현
 
 #
