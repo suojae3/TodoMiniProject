@@ -40,6 +40,8 @@
 
 ### 4. 공부내용 정리
 - <a href="https://github.com/suojae3/AutoresizingMask.git" target="_blank"><strong> 스토리보드 없이 버튼을 코드로 구현해보자(feat. Autoresizing Mask)
+- - <a href="https://github.com/suojae3/Codable-Protocol.git" target="_blank"><strong> Codable 프로토콜이란? (feat. Autoresizing Mask)
+
 
 
 <br/>
