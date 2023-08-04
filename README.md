@@ -28,7 +28,7 @@
 
 ### 3. 구현 사항
 
-- **[Architecture]** <br/>MVVM 패턴<br/>
+- **[Architecture]** <br/>MVVM 디자인 패턴 <br/>
 - **[Database]** <br/>`UserDeafaults`, `Codable` <br/>
 - **[Components]** <br/>`Navigation Control`, `Table View`, `Segment Control` <br/>
 - **[Feature]** <br/>스토리보드 사용 없이 코드로 구현
