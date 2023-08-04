@@ -3,7 +3,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=TODO%20App%20mini%project&fontSize=40&animation=fadeIn&fontAlign=28)
 
-## Contetns
+## Contents
 
 [1. App 시연](#1-app-시연)<br/>
 [2. 구현 사항](#2-구현-사항)<br/>
