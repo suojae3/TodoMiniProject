@@ -5,13 +5,12 @@
 
 ## Contents
 
-memo: 기간, trouble shooting, 스택
-
 [1. App 시연](#1-app-시연)<br/>
-[2. 구현 사항](#2-구현-사항)<br/>
-[3. 공부내용 정리](#3-공부내용-정리)<br/>
-[4. 어려웠던 점](#4-어려웠던-점)<br/>
-[5. 향후 방향](#5-향후-방향)<br/>
+[2. 제작 기간 및 기술 스택](#2-제작-기간-및-기술-스택)<br/>
+[3. 구현 사항](#3-구현-사항)<br/>
+[4. 공부내용 정리](#4-공부내용-정리)<br/>
+[5. 어려웠던 점](#5-어려웠던-점)<br/>
+[6. 향후 방향](#6-향후-방향)<br/>
 
 --- 
 
@@ -23,7 +22,15 @@ memo: 기간, trouble shooting, 스택
 
 #
 
-### 2. 구현 사항
+### 2. 제작 기간 및 기술 스택
+
+#### 2023.08.02 ~ 08.04
+#### 기술 스택: Swift 
+
+
+#
+
+### 3. 구현 사항
 
 #### [**Architecture**] MVVM 패턴 <br/>
 #### [**Database**] UserDeafaults, Codable <br/>
@@ -34,7 +41,7 @@ memo: 기간, trouble shooting, 스택
 
 #
 
-### 3. 공부내용 정리
+### 4. 공부내용 정리
 - <a href="https://github.com/suojae3/AutoresizingMask.git" target="_blank"><strong> 스토리보드 없이 버튼을 코드로 구현해보자(feat. Autoresizing Mask)
 
 
@@ -42,4 +49,4 @@ memo: 기간, trouble shooting, 스택
 
 #
 
-### 4. 느낀점
+### 5. 느낀점
