@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=TODO%20App%20mini%project&fontSize=40&animation=fadeIn&fontAlign=28)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=TODO%20App%20mini%20project&fontSize=40&animation=fadeIn&fontAlign=28)
 
 ## Contents
 
