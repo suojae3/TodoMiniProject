@@ -18,7 +18,7 @@
 
 <br/>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="Simulator Screen Recording - iPhone 14 Pro - 2023-08-04 at 14.55.55.gif" height="350"><br/><br/>
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="Simulator Screen Recording - iPhone 14 Pro - 2023-08-04 at 14.55.55.gif" height="350"><br/>
 
 #
 
