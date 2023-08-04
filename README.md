@@ -1,6 +1,4 @@
 
-
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=TODO%20App%20mini%project&fontSize=40&animation=fadeIn&fontAlign=28)
 
 ## Contents
@@ -31,8 +29,8 @@
 ### 3. 구현 사항
 
 - [**Architecture**] MVVM 패턴 
-- [**Database**] UserDeafaults, Codable 
-- [**Components**] Navigation Control, Table View, Segmet Control 
+- [**Database**] `UserDeafaults`, `Codable` 
+- [**Components**] `Navigation Control`, `Table View`, `Segment Control` 
 - [**Feature**] 스토리보드 사용 없이 코드로 구현
 
 <br/>
